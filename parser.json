@@ -1,8 +1,7 @@
 {
-  "max_version": null,
-  "lang": "pem",
-  "location": null,
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-pem",
   "semver": false,
-  "min_version": null
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-pem",
+  "lang": "pem",
+  "parser_version": "e525b177a229b1154fd81bc0691f943028d9e685",
+  "location": null
 }
